@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Sep 14 16:18:31 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1442218711421
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact javax.transaction\:jta\:jar\:1.0.1B from/to central (http\://repo1.maven.org/maven2)\: Failed to create a selector.
+http\://repo1.maven.org/maven2=1442218535995

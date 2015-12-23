@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 19:10:28 CST 2015
+default-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1439809828184
+default-http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1439809787180
+http\://maven.springframework.org/release/.lastUpdated=1439809746319
+http\://maven.springframework.org/release/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1439809828919
+http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact commons-logging\:commons-logging\:pom\:1.2 from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: connection timed out
+http\://repository.springsource.com/maven/bundles/release/.error=Could not transfer artifact commons-logging\:commons-logging\:pom\:1.2 from/to com.springsource.repository.bundles.release (http\://repository.springsource.com/maven/bundles/release)\: connection timed out
