@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 19:20:51 CST 2015
+default-http\://maven.springframework.org/release/.lastUpdated=1439810407598
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1439810441365
+http\://maven.springframework.org/release/.error=Could not transfer artifact org.springframework\:spring-context\:jar\:4.0.7.RELEASE from/to repository.springframework.maven.release (http\://maven.springframework.org/release)\: No response received after 60000
+http\://repo1.maven.org/maven2/.lastUpdated=1439810451491
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1439810421548
+http\://repository.springsource.com/maven/bundles/external/.error=
+http\://repository.springsource.com/maven/bundles/release/.error=

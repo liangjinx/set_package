@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Sep 10 15:57:14 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1441871834012
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.primefaces.themes\:aristo\:pom\:1.0.0 from/to central (http\://repo1.maven.org/maven2)\: Failed to create a selector.

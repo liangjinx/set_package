@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Sep 10 16:36:09 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1441874169071
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.mortbay.jetty\:jetty-maven-plugin\:pom\:8.1.5.v20120716 from/to central (http\://repo1.maven.org/maven2)\: Failed to create a selector.

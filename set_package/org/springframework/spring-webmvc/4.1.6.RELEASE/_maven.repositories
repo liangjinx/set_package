@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Aug 19 19:20:00 CST 2015
+spring-webmvc-4.1.6.RELEASE-sources.jar>repository.springframework.maven.release=
+spring-webmvc-4.1.6.RELEASE.jar>central=
+spring-webmvc-4.1.6.RELEASE.pom>central=
+spring-webmvc-4.1.6.RELEASE.pom>repository.springframework.maven.release=
